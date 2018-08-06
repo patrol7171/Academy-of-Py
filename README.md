@@ -9,26 +9,16 @@
 The steps for deriving a final report include each of the following:
 
 #### PART 1: Data Clean-up & Prep
-<br>
 #### PART 2: District Summary
-<br>
 #### PART 3: School Summary
-<br>
 #### PART 4: Top Performing Schools (By Passing Rate)
-<br>
 #### PART 5: Bottom Performing Schools (By Passing Rate)
-<br>
 #### PART 6: Math Scores by Grade
-<br>
 #### PART 7: Reading Scores by Grade
-<br>
 #### PART 8: Scores by School Spending
-<br>
 #### PART 9: Scores by School Size
-<br>
 #### PART 10: Scores by School Type
-<br>
-<br>
+
 ### <font color=maroon>*Observed Trends:* 
 
 * Schools with higher budgets did not yield better test results. By contrast, schools with higher spending per student (\$645-675) actually under-performed compared to schools with smaller budgets (<\$585 per student).
