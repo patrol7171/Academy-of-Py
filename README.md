@@ -1011,8 +1011,6 @@ bottom_schools.head()
 
 
 
-<br>
-<br>
 ### PART 6: Math Scores by Grade
 
 
